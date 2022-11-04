@@ -18,7 +18,7 @@ Data Information
 Datasets
 -   RAW_us_confirmed_cases.csv - Consists of daily confirmed COVID cases for all counties from from the Kaggle repository of John Hopkins University COVID-19 data. 
     
--   mask-mandate-milwaukee.csv - Mask mandate information from The New York Times mask compliance survey data.
+-   mask-mandate.csv - Mask mandate information from The New York Times mask compliance survey data.
 
 -   mask-use-by-county.csv - Survey that contains the percent values of mask compliance based on level of compliance collected by CDC
 
