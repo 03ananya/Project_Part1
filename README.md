@@ -36,7 +36,7 @@ Repository Structure
 ├── LICENSE
 ├── data
 │   ├── RAW_us_confirmed_cases.csv
-│   ├── mask-mandate-milwaukee.csv
+│   ├── mask-mandate.csv
 │   └── mask-use-by-county.csv
 ├── Reflection_Statement.pdf
 ├── Visualization_Explanation.pdf
