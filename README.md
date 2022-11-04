@@ -36,7 +36,7 @@ Repository Structure
 ├── LICENSE
 ├── data
 │   ├── RAW_us_confirmed_cases.csv
-│   ├── mask-mandate-milwaukee.csv
+│   ├──U.S._State_and_Territorial_Public_Mask_Mandates_From_April_10__2020_through_August_15__2021_by_County_by_Day.csv
 │   └── mask-use-by-county.csv
 ├── Reflection_Statement.pdf
 ├── Visualization_Explanation.pdf
