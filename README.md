@@ -53,19 +53,15 @@ Repository Structure
 
 Plots
 
--   **Screenshot of plot 1:**  
+
 https://github.com/03ananya/Project_Part1/blob/main/Plots/Cumulative%20number%20of%20COVID%20cases-%20Harris%20County.jpeg
 
--   **Screenshot of plot :**   
 https://github.com/03ananya/Project_Part1/blob/main/Plots/Infection%20rate%20of%20Harris%20county.jpeg
 
--   **Screenshot of plot 3:**   
 https://github.com/03ananya/Project_Part1/blob/main/Plots/Growth%20of%20Infection%20Rate.jpeg
 
--   **Screenshot of plot 4:**  
 https://github.com/03ananya/Project_Part1/blob/main/Plots/Second%20order%20differencing%20%20of%20Infection%20Rate.jpeg
 
--   **Screenshot of plot 5:**   
 https://github.com/03ananya/Project_Part1/blob/main/Plots/Second%20order%20difference%20of%20the%20numner%20of%20COVID%20cases%20daily.jpeg
 
 
